@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "terminal"
+  ],
+  "pluginsConfig": {
+    "terminal": {
+      "copyButtons": false,
+      "fade": false,
+      "style": "flat"
+    }
+  }
+}
